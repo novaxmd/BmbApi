@@ -25,3 +25,6 @@ requests
 
 # Optional: Connection pooling and performance
 httpcore
+
+# Sentiment analysis (used by src/sentiment_analyzer.py)
+textblob
