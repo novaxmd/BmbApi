@@ -248,7 +248,7 @@ See [LICENSE](LICENSE) file for details.
 - **Documentation**: [USER_GUIDE.md](USER_GUIDE.md)
 - **Issues**: [GitHub Issues](https://github.com/novaxmd/BmbApi/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/novaxmd/BmbApi/discussions)
-- **Email**: thinkelyorg@gmail.com
+- **Email**: bmbxmd@gmail.com
 
 ---
 
